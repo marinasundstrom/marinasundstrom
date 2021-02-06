@@ -2,6 +2,12 @@
 
 I'm a Software Developer, mainly working with C#/.NET and the Web.
 
+## Showcase
+Here are some projects of mine that I would like to show:
+
+* [Commuter](https://github.com/robertsundstrom/commuter) - Conceptual commuter app listing stops and departures based on the user's position.
+* [Agent Recruiter](https://github.com/robertsundstrom/AgentRecruiter-XamarinForms) *(Interview test)* - App for matching recruiter with secret agents. Tinder-like swipe interface. 
+
 ## Where to find me
 - Twitter: [@robertsundstrom](https://twitter.com/robertsundstrom)
 - LinkedIn: [robertsundstrom](https://www.linkedin.com/in/robertsundstrom/)
