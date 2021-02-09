@@ -11,7 +11,7 @@ Here are some projects of mine that I would like to show:
 * [Agent Recruiter](https://github.com/robertsundstrom/agent-recruiter) *(Interview test)* - App for matching recruiter with secret agents. Tinder-like swipe interface. 
 
 
-[Here](https://www.youtube.com/playlist?list=PLLBU--06ftFqPiAwkg3VKa2fIEhNu7J4L) is a playlist of videos showing some of my projects. 
+[Here](https://www.youtube.com/playlist?list=PLLBU--06ftFqPiAwkg3VKa2fIEhNu7J4L) is a playlist of *videos* showing some of my projects. 
 
 ## Where to find me
 - Twitter: [@robertsundstrom](https://twitter.com/robertsundstrom)
