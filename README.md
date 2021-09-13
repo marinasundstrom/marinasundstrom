@@ -1,4 +1,4 @@
-# Robert Sundström - @robertsundstrom
+# Marina Sundström - @marinasundstrom
 
 I'm a Software Developer, mainly working with C#/.NET and the Web.
 
