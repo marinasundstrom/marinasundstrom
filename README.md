@@ -7,6 +7,7 @@ Here are some projects of mine that I would like to show:
 
 * [Commuter](https://github.com/robertsundstrom/commuter) - Conceptual commuter app listing stops and departures based on the user's position.
 * [Point Of Sale](https://youtu.be/wDP1ShXDgY8) (Video) - Electronic cash register app with product catalog and receipts.
+* [Accounting app](https://github.com/robertsundstrom/accounting-app) - Concept app for doing accounting.
 * [Showroom](https://github.com/robertsundstrom/showroom) -  Site helping consulting company presenting consultants to customers.
 * [Coffee Shop](https://github.com/robertsundstrom/coffee-shop) - E-shop site that sells coffee and pastries.
 * [Agent Recruiter](https://github.com/robertsundstrom/agent-recruiter) *(Interview test)* - App for matching recruiter with secret agents. Tinder-like swipe interface. 
