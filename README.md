@@ -16,9 +16,9 @@ Here are some projects of mine that I would like to show:
 [Here](https://www.youtube.com/playlist?list=PLLBU--06ftFqPiAwkg3VKa2fIEhNu7J4L) is a playlist of *videos* showing some of my projects. 
 
 ## 🔗 Where to find me
-- [My website](https://www.robertsundstrom.com/) - Blog, CV/Résumé, and Portfolio
-- Twitter: [@robertsundstrom](https://twitter.com/robertsundstrom)
-- LinkedIn: [robertsundstrom](https://www.linkedin.com/in/robertsundstrom/)
+- [My website](https://www.sundstrom.dev/) - Blog, CV/Résumé, and Portfolio
+- Twitter: [@robertsundstrom](https://twitter.com/marna_li)
+- LinkedIn: [marinasundstrom](https://www.linkedin.com/in/marinasundstrom/)
 
 ![Robert's github stats](https://github-readme-stats.vercel.app/api/?username=marinasundstrom&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
