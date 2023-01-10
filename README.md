@@ -12,10 +12,19 @@ Here are some projects of mine that I would like to show:
 * [Finance app](https://github.com/marinasundstrom/finance-app) - Concept app for doing financde, in particular accounting.
 * [Showroom](https://github.com/marinasundstrom/showroom) -  Site helping consulting company presenting consultants to customers.
 * [Coffee Shop](https://github.com/marinasundstrom/coffee-shop) - E-shop site that sells coffee and pastries.
-* [Agent Recruiter](https://github.com/marinasundstrom/agent-recruiter) *(Interview test)* - App for matching recruiter with secret agents. Tinder-like swipe interface. 
 * [Access Control](https://github.com/marinasundstrom/AccessControl) - Physical Access Control system - Raspberry Pi, Azure, Web app, Mobile Apps 
 
 [Here](https://www.youtube.com/playlist?list=PLLBU--06ftFqPiAwkg3VKa2fIEhNu7J4L) is a playlist of *videos* showing some of my projects. 
+
+### Job Interview Assignments
+I have uploaded the result of some of the assignments that I have done for interviews.
+
+* [Agent Recruiter](https://github.com/marinasundstrom/agent-recruiter) (2018) - App for matching recruiter with secret agents. Tinder-like swipe interface. _C#/.NET, Xamarin.Forms_
+* [FileViewer](https://github.com/marinasundstrom/FileViewer) (2020) - Explorer-type web app visualizing and manipulating a virtual filesystem. _C#/.NET & Blazor_
+  * [FileViewer2](https://github.com/marinasundstrom/FileViewer2) (2021) - Second attempt. Rewrite from scratch with MudBlazor component library.
+* [RobotApp](https://github.com/marinasundstrom/RobotApp2) (2022) - Web app controlling a robot on screen by giving commands. _HTML, JavaScript, and Canvas_ ([C# version](https://github.com/marinasundstrom/RobotApp))
+* [Snake](https://github.com/marinasundstrom/snake) (2022) - Implementation of the classic game Snake as a Web App, using _HTML, JavaScript, and Canvas_
+* [BookStoreScraper](https://github.com/marinasundstrom/BookStoreScraper) (2023) - Scraping the [Books to Scrape](http://books.toscrape.com/) site, and downloads the entire site to be viewed offline. _C#/.NET_
 
 ## 🔗 Where to find me
 - [My website](https://www.sundstrom.dev/) - Blog, CV/Résumé, and Portfolio
