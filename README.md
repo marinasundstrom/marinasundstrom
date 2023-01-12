@@ -5,14 +5,14 @@
 ## ⭐ Showcase
 Here are some projects of mine that I would like to show:
 
-* [eShop](https://github.com/marinasundstrom/eShop) - E-commerce site/system, based on the YourBrand project.
-* [YourBrand](https://github.com/marinasundstrom/YourBrand) - System originally for running a consultancy firm. Incorporates Showroom and Finance app projects.
-* [Commuter](https://github.com/marinasundstrom/commuter) - Conceptual commuter app listing stops and departures based on the user's position.
-* [Point Of Sale](https://youtu.be/wDP1ShXDgY8) (Video) - Electronic cash register app with product catalog and receipts.
-* [Finance app](https://github.com/marinasundstrom/finance-app) - Concept app for doing financde, in particular accounting.
-* [Showroom](https://github.com/marinasundstrom/showroom) -  Site helping consulting company presenting consultants to customers.
-* [Coffee Shop](https://github.com/marinasundstrom/coffee-shop) - E-shop site that sells coffee and pastries.
-* [Access Control](https://github.com/marinasundstrom/AccessControl) - Physical Access Control system - Raspberry Pi, Azure, Web app, Mobile Apps 
+* [eShop](https://github.com/marinasundstrom/eShop) (2022-) - E-commerce site/system, based on the YourBrand project.
+* [YourBrand](https://github.com/marinasundstrom/YourBrand) (2021 - 2022) - System originally for running a consultancy firm. Incorporates Showroom and Finance app projects.
+* [Commuter](https://github.com/marinasundstrom/commuter) (2019) - Conceptual commuter app listing stops and departures based on the user's position.
+* [Point Of Sale](https://github.com/marinasundstrom/PointOfSale) (2021) - Electronic cash register app with product catalog and receipts.
+* [Finance app](https://github.com/marinasundstrom/finance-app) (2021 - 2022) - Concept app for doing financde, in particular accounting.
+* [Showroom](https://github.com/marinasundstrom/showroom) (2018) -  Site helping consulting company presenting consultants to customers.
+* [Coffee Shop](https://github.com/marinasundstrom/coffee-shop) (2020) - E-shop site that sells coffee and pastries.
+* [Access Control](https://github.com/marinasundstrom/AccessControl) (2017 - 2018) - Physical Access Control system - Raspberry Pi, Azure, Web app, Mobile Apps 
 
 [Here](https://www.youtube.com/playlist?list=PLLBU--06ftFqPiAwkg3VKa2fIEhNu7J4L) is a playlist of *videos* showing some of my projects. 
 
