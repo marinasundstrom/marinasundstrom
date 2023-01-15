@@ -5,7 +5,8 @@
 ## ⭐ Showcase
 Here are some projects of mine that I would like to show:
 
-* [eShop](https://github.com/marinasundstrom/eShop) (2022-) - E-commerce site/system. Based on the YourBrand project.
+* [eShop](https://github.com/marinasundstrom/eShop) (2022-) - E-commerce site/system. Based on the YourBrand and "Todo app" projects.
+* [Todo app](https://github.com/marinasundstrom/todo-app) (2022) - Reference project for Clean Architecture with focus on Use Cases.
 * [YourBrand](https://github.com/marinasundstrom/YourBrand) (2021 - 2022) - System originally for running a consultancy firm. Incorporates projects below:
   * [Product Catalog](https://github.com/marinasundstrom/product-catalog) (2021) - A product catalog and configurator.
   * [Time Report](https://github.com/marinasundstrom/TimeReport) (2021) - Project management app with time reporting functionality.
@@ -13,7 +14,7 @@ Here are some projects of mine that I would like to show:
   * [Showroom](https://github.com/marinasundstrom/showroom) (2018 - 2022) -  Site helping consultancy company presenting consultants to customers.
 * [Point Of Sale](https://github.com/marinasundstrom/PointOfSale) (2021) - Electronic cash register app with product catalog and receipts.
 * [Commuter](https://github.com/marinasundstrom/commuter) (2019) - Conceptual commuter app listing stops and departures based on the user's position.
-* [Audio Player](https://github.com/marinasundstrom/AudioPlayer-18) (2017) - Concept mobile audio player app for Axis audio products. _C#/.NET, Xamarin.Forms_
+* [Audio Player app](https://github.com/marinasundstrom/AudioPlayer-18) (2017) - Concept mobile audio player app for Axis audio products. _C#/.NET, Xamarin.Forms_
 * [Access Control](https://github.com/marinasundstrom/AccessControl) (2017 - 2018) - Physical Access Control system. _C#/.NET, Raspberry Pi, Azure, Web app, Mobile_ Apps 
 
 [Here](https://www.youtube.com/playlist?list=PLLBU--06ftFqPiAwkg3VKa2fIEhNu7J4L) is a playlist of *videos* showing some of my projects. 
