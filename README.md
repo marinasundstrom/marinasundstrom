@@ -11,8 +11,8 @@ Here are some projects of mine that I would like to show:
   * [Time Report](https://github.com/marinasundstrom/TimeReport) (2021) - Project management app with time reporting functionality.
   * [Finance app](https://github.com/marinasundstrom/finance-app) (2021 - 2022) - App for doing finance, in particular accounting. Some Invoicing.
   * [Showroom](https://github.com/marinasundstrom/showroom) (2018 - 2022) -  Site helping consulting company presenting consultants to customers.
-* [Commuter](https://github.com/marinasundstrom/commuter) (2019) - Conceptual commuter app listing stops and departures based on the user's position.
 * [Point Of Sale](https://github.com/marinasundstrom/PointOfSale) (2021) - Electronic cash register app with product catalog and receipts.
+* [Commuter](https://github.com/marinasundstrom/commuter) (2019) - Conceptual commuter app listing stops and departures based on the user's position.
 * [Audio Player](https://github.com/marinasundstrom/AudioPlayer-18) (2017) - Concept mobile audio player app for Axis audio products. _C#/.NET, Xamarin.Forms_
 * [Access Control](https://github.com/marinasundstrom/AccessControl) (2017 - 2018) - Physical Access Control system. _C#/.NET, Raspberry Pi, Azure, Web app, Mobile_ Apps 
 
