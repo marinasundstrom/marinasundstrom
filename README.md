@@ -29,12 +29,13 @@ I have uploaded the result of some of the assignments that I have done for inter
 * [RobotApp](https://github.com/marinasundstrom/RobotApp2) (2022) - Web app controlling a robot on screen by giving commands. _HTML, JavaScript, and Canvas_ ([C# version](https://github.com/marinasundstrom/RobotApp))
 * [Snake](https://github.com/marinasundstrom/snake) (2022) - Implementation of the classic game Snake as a Web App, using _HTML, JavaScript, and Canvas_
 * [BookStoreScraper](https://github.com/marinasundstrom/BookStoreScraper) (2023) - Scraping the [Books to Scrape](http://books.toscrape.com/) site, and downloads the entire site to be viewed offline. _C#/.NET_
+* [ChatApp](https://github.com/marinasundstrom/ChatApp) (2022) - Chat app built with ASP.NET Core and Blazor.
 
 ## 🔗 Where to find me
 - [My website](https://www.sundstrom.dev/) - Blog, CV/Résumé, and Portfolio
 - Twitter: [@marna_li](https://twitter.com/marna_li)
 - LinkedIn: [marinasundstrom](https://www.linkedin.com/in/marinasundstrom/)
 
-![Robert's github stats](https://github-readme-stats.vercel.app/api/?username=marinasundstrom&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Marina's github stats](https://github-readme-stats.vercel.app/api/?username=marinasundstrom&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/marna.li)
