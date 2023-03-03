@@ -9,6 +9,8 @@ I'm a Software Developer, mainly working with C#/.NET and the Web. 👩‍💻�
 
 🎯 [My Programming Timeline](https://www.sundstrom.dev/articles/my-programming-timeline) recaps my life and career as a programmer and professional software developer.
 
+Here is my [CV](https://1drv.ms/b/s!AtAtF4x3G7X4gRWqZOXpFkW--5dQ?e=IxD6XZ).
+
 ## Technologies that I use
 
 <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"> <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"> <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"> <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"> <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
