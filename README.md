@@ -7,6 +7,10 @@ I'm a Software Developer, mainly working with C#/.NET and the Web. 👩‍💻�
 [![Github Badge](https://img.shields.io/badge/-marinasundstrom-404040?style=flat&logo=github&logoColor=cyan&link=https://github.com/marinasundstrom)](https://github.com/marinasundstrom)
 [![YouTube Badge](https://img.shields.io/youtube/channel/subscribers/UCVdav9wE4kmtiEuk1_vG2_g?label=YouTube&logo=YouTube&logoColor=ree&style=flat)](https://www.youtube.com/channel/UCVdav9wE4kmtiEuk1_vG2_g)
 
+
+<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"> <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"> <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"> <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"> <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
+<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png">
+
 ![Marina's github stats](https://github-readme-stats.vercel.app/api/?username=marinasundstrom&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinasundstrom&layout=compact)
 
