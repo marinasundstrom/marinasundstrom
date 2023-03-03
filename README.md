@@ -1,6 +1,6 @@
-# Marina Sundström - @marinasundstrom
+# 👋 I'm Marina
 
-👋 I'm a Software Developer, mainly working with C#/.NET and the Web. 👩‍💻✨ 
+I'm a Software Developer, mainly working with C#/.NET and the Web. 👩‍💻✨ 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Marina%20Sundström-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marinasundstrom/)](https://www.linkedin.com/in/marinasundstrom/)
 [![Twitter Badge](https://img.shields.io/badge/-@marna_li-1da1f2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/marna_li)](https://twitter.com/marna_li)
@@ -23,7 +23,7 @@ Here are some projects of mine that I would like to show:
 * [Audio Player app](https://github.com/marinasundstrom/AudioPlayer-18) (2017) - Concept mobile audio player app for Axis audio products. _C#/.NET, Xamarin.Forms_
 * [Access Control](https://github.com/marinasundstrom/AccessControl) (2017 - 2018) - Physical Access Control system. _C#/.NET, Raspberry Pi, Azure, Web app, Mobile_ Apps 
 
-[Here](https://www.youtube.com/playlist?list=PLLBU--06ftFqPiAwkg3VKa2fIEhNu7J4L) is a playlist of *videos* showing some of my projects. 
+Here is a [🔗 playlist](https://www.youtube.com/playlist?list=PLLBU--06ftFqPiAwkg3VKa2fIEhNu7J4L) showing some of my projects. 
 
 ### ✔️ Job Interview Assignments
 I have uploaded the result of some of the assignments that I have done for interviews.
