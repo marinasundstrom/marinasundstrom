@@ -5,9 +5,10 @@ I'm a Software Developer, mainly working with C#/.NET and the Web. 👩‍💻�
 [![Linkedin Badge](https://img.shields.io/badge/-Marina%20Sundström-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marinasundstrom/)](https://www.linkedin.com/in/marinasundstrom/)
 [![Twitter Badge](https://img.shields.io/badge/-@marna_li-1da1f2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/marna_li)](https://twitter.com/marna_li)
 [![Github Badge](https://img.shields.io/badge/-marinasundstrom-404040?style=flat&logo=github&logoColor=cyan&link=https://github.com/marinasundstrom)](https://github.com/marinasundstrom)
-[![YouTube Badge](https://img.shields.io/youtube/channel/subscribers/UCVdav9wE4kmtiEuk1_vG2_g?label=YouTube&logo=YouTube&logoColor=ree&style=flat-square)](https://www.youtube.com/channel/UCVdav9wE4kmtiEuk1_vG2_g)
+[![YouTube Badge](https://img.shields.io/youtube/channel/subscribers/UCVdav9wE4kmtiEuk1_vG2_g?label=YouTube&logo=YouTube&logoColor=ree&style=flat)](https://www.youtube.com/channel/UCVdav9wE4kmtiEuk1_vG2_g)
 
-![Marina's github stats](https://github-readme-stats.vercel.app/api/?username=marinasundstrom&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Marina's github stats](https://github-readme-stats.vercel.app/api/?username=marinasundstrom&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinasundstrom&layout=compact)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/marna.li)
 
