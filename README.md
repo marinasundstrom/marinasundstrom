@@ -1,6 +1,6 @@
 # 👋 I'm Marina 😊
 
-I'm a Software Developer, mainly working with C#/.NET and the Web. 👩‍💻✨ 
+I'm a Software Developer, mainly working with C#/.NET and the Web. 👩‍💻✨ I also have an interest in Software Architecture and Design.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Marina%20Sundström-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marinasundstrom/)](https://www.linkedin.com/in/marinasundstrom/)
 [![Twitter Badge](https://img.shields.io/badge/-@marna_li-1da1f2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/marna_li)](https://twitter.com/marna_li)
