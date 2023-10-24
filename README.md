@@ -29,7 +29,7 @@ Here are some projects of mine that I would like to show:
 
 * [eShop](https://github.com/marinasundstrom/eShop) (2022-) - E-commerce site/system. Based on the YourBrand and "Todo app" projects.
 * [Todo app](https://github.com/marinasundstrom/todo-app) (2022) - Reference project for Clean Architecture with focus on Use Cases.
-* [YourBrand](https://github.com/marinasundstrom/YourBrand) (2021 - 2022) - System originally for running a consultancy firm. Incorporates projects below:
+* [YourBrand](https://github.com/marinasundstrom/YourBrand_Old) (Old) (2021 - 2022) - System originally for running a consultancy firm. Incorporates projects below:
   * [Product Catalog](https://github.com/marinasundstrom/product-catalog) (2021) - A product catalog and configurator.
   * [Time Report](https://github.com/marinasundstrom/TimeReport) (2021) - Project management app with time reporting functionality.
   * [Finance app](https://github.com/marinasundstrom/finance-app) (2021 - 2022) - App for doing finance, in particular accounting. Some Invoicing.
