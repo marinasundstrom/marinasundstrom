@@ -27,7 +27,7 @@ Here is my [CV](https://1drv.ms/b/s!AtAtF4x3G7X4gRWqZOXpFkW--5dQ?e=IxD6XZ) 😊
 ## ⭐ Showcase
 Here are some projects of mine that I would like to show:
 
-* [YourBrand](https://github.com/marinasundstrom/YourBrand) (Old) (2023 - ) - E-commerce site/system. Distributed app with deployment to the cloud. Based on eShop and YourBrand (Old).
+* [YourBrand](https://github.com/marinasundstrom/YourBrand) (2023 - ) - E-commerce site/system. Distributed app with deployment to the cloud. Based on eShop and YourBrand (Old).
 * [eShop](https://github.com/marinasundstrom/eShop) (2022-) - E-commerce site/system. Based on the YourBrand and "Todo app" projects.
 * [Todo app](https://github.com/marinasundstrom/todo-app) (2022) - Reference project for Clean Architecture with focus on Use Cases.
 * [YourBrand](https://github.com/marinasundstrom/YourBrand_Old) (Old) (2021 - 2022) - System originally for running a consultancy firm. Incorporates projects below:
