@@ -27,6 +27,7 @@ Here is my [CV](https://1drv.ms/b/s!AtAtF4x3G7X4gRWqZOXpFkW--5dQ?e=IxD6XZ) 😊
 ## ⭐ Showcase
 Here are some projects of mine that I would like to show:
 
+* [YourBrand](https://github.com/marinasundstrom/YourBrand) (Old) (2023 - ) - E-commerce site/system. Distributed app with deployment to the cloud. Based on eShop and YourBrand (Old).
 * [eShop](https://github.com/marinasundstrom/eShop) (2022-) - E-commerce site/system. Based on the YourBrand and "Todo app" projects.
 * [Todo app](https://github.com/marinasundstrom/todo-app) (2022) - Reference project for Clean Architecture with focus on Use Cases.
 * [YourBrand](https://github.com/marinasundstrom/YourBrand_Old) (Old) (2021 - 2022) - System originally for running a consultancy firm. Incorporates projects below:
@@ -52,6 +53,7 @@ I have uploaded the result of some of the assignments that I have done for inter
 * [Snake](https://github.com/marinasundstrom/snake) (2022) - Implementation of the classic game Snake as a Web App, using _HTML, JavaScript, and Canvas_
 * [BookStoreScraper](https://github.com/marinasundstrom/BookStoreScraper) (2023) - Scraping the [Books to Scrape](http://books.toscrape.com/) site, and downloads the entire site to be viewed offline. _C#/.NET_
 * [ChatApp](https://github.com/marinasundstrom/ChatApp) (2023) - Chat app built with ASP.NET Core and Blazor.
+* [FizzBuzz](https://github.com/marinasundstrom/fizzbuzz) (2024) - Fizz buzz with Unit tests
 
 ## 🔗 Where to find me
 - [My website](https://www.sundstrom.dev/) - Blog, CV/Résumé, and Portfolio
