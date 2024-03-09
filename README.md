@@ -55,6 +55,13 @@ I have uploaded the result of some of the assignments that I have done for inter
 * [ChatApp](https://github.com/marinasundstrom/ChatApp) (2023) - Chat app built with ASP.NET Core and Blazor.
 * [FizzBuzz](https://github.com/marinasundstrom/fizzbuzz) (2024) - Fizz buzz with Unit tests
 
+### Tech Talks
+
+The full playlist can be found [here](https://www.youtube.com/playlist?list=PLLBU--06ftFpS3AyYSOuR0aPzxg_kYrst).
+
+* [Service Discovery for Distributed apps in .NET using Steeltoe](https://www.youtube.com/watch?v=FxrMKdSiIlg) ([Source code](https://github.com/marinasundstrom/service-discovery-demo))
+* [Walkthrough of MAUI Blazor Hybrid app - Fluent UI and Web API backend](https://www.youtube.com/watch?v=_8OOA4wmUKE) ([Source code](https://github.com/marinasundstrom/MyMauiBlazorApp))
+
 ## 🔗 Where to find me
 - [My website](https://www.sundstrom.dev/) - Blog, CV/Résumé, and Portfolio
 - Twitter: [@marna_li](https://twitter.com/marna_li)
