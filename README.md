@@ -27,14 +27,14 @@ Here is my [CV](https://1drv.ms/b/s!AtAtF4x3G7X4gRWqZOXpFkW--5dQ?e=IxD6XZ) 😊
 ## ⭐ Showcase
 Here are some projects of mine that I would like to show:
 
-* [YourBrand](https://github.com/marinasundstrom/YourBrand) (2023 - ) - E-commerce site/system. Distributed app with deployment to the cloud. Based on eShop and YourBrand (Old).
-* [eShop](https://github.com/marinasundstrom/eShop) (2022-) - E-commerce site/system. Based on the YourBrand and "Todo app" projects.
-* [Todo app](https://github.com/marinasundstrom/todo-app) (2022) - Reference project for Clean Architecture with focus on Use Cases.
-* [YourBrand](https://github.com/marinasundstrom/YourBrand_Old) (Old) (2021 - 2022) - System originally for running a consultancy firm. Incorporates projects below:
+* [YourBrand](https://github.com/marinasundstrom/YourBrand) (2021 - 2023, 2024 -) - Enterprise system for e-commerce and consulting services. Distributed app with deployment to the cloud. Based on and incorporates the following projects:
+  * [YourBrand 3.0](https://github.com/marinasundstrom/yourbrand_new_old) (2023 - 2024) - E-commerce site/system for the cloud. Based on **eShop**.
+  * [eShop](https://github.com/marinasundstrom/eShop) (2022 - 2023) - E-commerce site/system. Based on the YourBrand and "Todo app" projects.
   * [Product Catalog](https://github.com/marinasundstrom/product-catalog) (2021) - A product catalog and configurator.
   * [Time Report](https://github.com/marinasundstrom/TimeReport) (2021) - Project management app with time reporting functionality.
   * [Finance app](https://github.com/marinasundstrom/finance-app) (2021 - 2022) - App for doing finance, in particular accounting. Some Invoicing.
   * [Showroom](https://github.com/marinasundstrom/showroom) (2018 - 2022) -  Site helping consultancy company presenting consultants to customers.
+* [Todo app](https://github.com/marinasundstrom/todo-app) (2022) - Reference project for Clean Architecture with focus on Use Cases.
 * [Tigergenerator 2.0](https://github.com/marinasundstrom/tigergenerator) (2020) - Web app for generating satirical images with the tiger from "En Svensk Tiger". Remake of [Tigergenerator](https://tiger.svt.se/).
 * [Point Of Sale](https://github.com/marinasundstrom/PointOfSale) (2021) - Electronic cash register app with product catalog and receipts.
 * [Commuter](https://github.com/marinasundstrom/commuter) (2019) - Conceptual commuter app listing stops and departures based on the user's position.
