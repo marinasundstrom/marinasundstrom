@@ -55,6 +55,15 @@ I have uploaded the result of some of the assignments that I have done for inter
 * [ChatApp](https://github.com/marinasundstrom/ChatApp) (2023) - Chat app built with ASP.NET Core and Blazor.
 * [FizzBuzz](https://github.com/marinasundstrom/fizzbuzz) (2024) - Fizz buzz with Unit tests
 
+### School projects
+
+* [C Micro compiler](https://github.com/marinasundstrom/cmicro-compiler) (2008-2009) - My first ever attempt att building a compiler. C-like language.
+* [VB Lite compiler](vb-lite-compiler) (2011) - Compiler for a Visual Basic.NET-like language. Loosely-based on Mono C# compiler architecture.
+
+### Other compiler or parser projects
+
+* [ExpressionEvaluator](https://github.com/marinasundstrom/ExpressionEvaluator) (2016) - Expression parser, evaluator, and compiler. Using the operator-precendence parser algorithm and Reflection.Emit for code generation.
+
 ### Tech Talks
 
 The full playlist can be found [here](https://www.youtube.com/playlist?list=PLLBU--06ftFpS3AyYSOuR0aPzxg_kYrst).
