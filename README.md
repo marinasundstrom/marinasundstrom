@@ -24,7 +24,7 @@ Here is my [CV](https://1drv.ms/b/s!AtAtF4x3G7X4gRWqZOXpFkW--5dQ?e=IxD6XZ) 😊
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/marna.li)
 
 
-## ⭐ Showcase
+## ⭐ Project showcase
 Here are some projects of mine that I would like to show:
 
 * [YourBrand](https://github.com/marinasundstrom/YourBrand) (2021 - 2023, 2024 -) - Enterprise system for e-commerce and consulting services. Distributed app with deployment to the cloud. Based on and incorporates the following projects:
@@ -55,7 +55,7 @@ I have uploaded the result of some of the assignments that I have done for inter
 * [ChatApp](https://github.com/marinasundstrom/ChatApp) (2023) - Chat app built with ASP.NET Core and Blazor.
 * [FizzBuzz](https://github.com/marinasundstrom/fizzbuzz) (2024) - Fizz buzz with Unit tests
 
-### School projects
+### 🏫 School projects
 
 * [C Micro compiler](https://github.com/marinasundstrom/cmicro-compiler) (2008-2009) - My first ever attempt att building a compiler. C-like language.
 * [VB Lite compiler](vb-lite-compiler) (2011) - Compiler for a Visual Basic.NET-like language. Loosely-based on Mono C# compiler architecture.
@@ -64,7 +64,7 @@ I have uploaded the result of some of the assignments that I have done for inter
 
 * [ExpressionEvaluator](https://github.com/marinasundstrom/ExpressionEvaluator) (2016) - Expression parser, evaluator, and compiler. Using the operator-precendence parser algorithm and Reflection.Emit for code generation.
 
-### Tech Talks
+## ▶️ Tech Talks
 
 The full playlist can be found [here](https://www.youtube.com/playlist?list=PLLBU--06ftFpS3AyYSOuR0aPzxg_kYrst).
 
