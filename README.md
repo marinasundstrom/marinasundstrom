@@ -60,9 +60,24 @@ I have uploaded the result of some of the assignments that I have done for inter
 * [C Micro compiler](https://github.com/marinasundstrom/cmicro-compiler) (2008-2009) - My first ever attempt att building a compiler. C-like language.
 * [VB Lite compiler](vb-lite-compiler) (2011) - Compiler for a Visual Basic.NET-like language. Loosely-based on Mono C# compiler architecture.
 
-### Other compiler or parser projects
+### Other compiler and parser projects
 
 * [ExpressionEvaluator](https://github.com/marinasundstrom/ExpressionEvaluator) (2016) - Expression parser, evaluator, and compiler. Using the operator-precendence parser algorithm and Reflection.Emit for code generation.
+
+### Experiments 
+
+* [BlazorMinimalApiTest](https://github.com/marinasundstrom/BlazorMinimalApiTest) - Experiment rendering interactive components Minimal API endpoints in ASP.NET Core 8 RC. Not supported by default.
+* [BlazorPhp](https://github.com/marinasundstrom/BlazorPhp) (2023) - Experiment adding Blazor component to Peachpie PHP project. Based on ASP.NET Core 8 RC1. Uses reflection hacks.
+
+### Misc projects
+
+* [MAUI Blazor hybrid app](https://github.com/marinasundstrom/MyMauiBlazorApp), with Fluent UI, and ASP.NET Core backend (2024)
+* [Blazor reference app](https://github.com/marinasundstrom/Blazor8Test) for .NET 8 with Bootstrap 5. Cloud-ready template project with documentation (2023).
+* [rabbitmq-java-test](https://github.com/marinasundstrom/rabbitmq-java-test) (2023) - Exploring RabbitMQ in Java. With Docker containerization.
+* [Blazor Basics](https://github.com/marinasundstrom/BlazorBasics) (2022) - Contains samples demonstrating various concepts in Blazor. How component binding works, and how to do JavaScript interop.
+* [.NET IoT samples](https://github.com/marinasundstrom/Iot-RPi-Sample) (2018) - A collection of samples intended to run on Raspberry Pi.
+* [HttpListener](https://github.com/marinasundstrom/HttpListener) library for .NET Core 1 (2016) - Abstraction on top of TCP Listener that was built to fill the then lack of such an API.
+* [x86-encoder](https://github.com/marinasundstrom/x86-encoder) (2013) - A library for generating X86 machine instructions.
 
 ## ▶️ Tech Talks
 
