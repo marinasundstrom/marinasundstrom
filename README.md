@@ -66,7 +66,7 @@ I have uploaded the result of some of the assignments that I have done for inter
 
 ### Experiments 
 
-* [BlazorMinimalApiTest](https://github.com/marinasundstrom/BlazorMinimalApiTest) - Experiment rendering interactive components Minimal API endpoints in ASP.NET Core 8 RC. Not supported by default.
+* [BlazorMinimalApiTest](https://github.com/marinasundstrom/BlazorMinimalApiTest) (2023) - Experiment rendering interactive components Minimal API endpoints in ASP.NET Core 8 RC. Not supported by default.
 * [BlazorPhp](https://github.com/marinasundstrom/BlazorPhp) (2023) - Experiment adding Blazor component to Peachpie PHP project. Based on ASP.NET Core 8 RC1. Uses reflection hacks.
 
 ### Misc projects
