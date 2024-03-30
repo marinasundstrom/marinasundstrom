@@ -63,6 +63,7 @@ I have uploaded the result of some of the assignments that I have done for inter
 ### Other compiler and parser projects
 
 * [ExpressionEvaluator](https://github.com/marinasundstrom/ExpressionEvaluator) (2016) - Expression parser, evaluator, and compiler. Using the operator-precendence parser algorithm and Reflection.Emit for code generation.
+* [Compiler projects](https://github.com/marinasundstrom/compiler-projects) (2023) - A couple of compiler projects for prototyping using a modern compiler architecture.
 
 ### Experiments 
 
