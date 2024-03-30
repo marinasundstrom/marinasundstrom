@@ -57,13 +57,13 @@ I have uploaded the result of some of the assignments that I have done for inter
 
 ### 🏫 School projects
 
-* [C Micro compiler](https://github.com/marinasundstrom/cmicro-compiler) (2008-2009) - My first ever attempt att building a compiler. C-like language.
-* [VB Lite compiler](vb-lite-compiler) (2011) - Compiler for a Visual Basic.NET-like language. Loosely-based on Mono C# compiler architecture.
+* [C Micro compiler](https://github.com/marinasundstrom/cmicro-compiler) (2008 - 2009) - My first ever attempt att building a compiler. C-like language.
+* [VB Lite compiler](https://github.com/marinasundstrom/vb-lite-compiler) (2011) - Compiler for a Visual Basic.NET-like language. Loosely-based on Mono C# compiler architecture.
 
 ### Other compiler and parser projects
 
 * [ExpressionEvaluator](https://github.com/marinasundstrom/ExpressionEvaluator) (2016) - Expression parser, evaluator, and compiler. Using the operator-precendence parser algorithm and Reflection.Emit for code generation.
-* [Compiler projects](https://github.com/marinasundstrom/compiler-projects) (2023) - A couple of compiler projects for prototyping using a modern compiler architecture.
+* [Compiler projects](https://github.com/marinasundstrom/compiler-projects) (2022 - 2023) - A couple of compiler projects for prototyping using a modern compiler architecture.
 
 ### Experiments 
 
