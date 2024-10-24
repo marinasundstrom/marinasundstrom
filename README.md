@@ -6,6 +6,7 @@ I'm a Software Developer, mainly working with C#/.NET and the Web. 👩‍💻�
 [![Twitter Badge](https://img.shields.io/badge/-@marna_li-1da1f2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/marna_li)](https://twitter.com/marna_li)
 [![Github Badge](https://img.shields.io/badge/-marinasundstrom-404040?style=flat&logo=github&logoColor=cyan&link=https://github.com/marinasundstrom)](https://github.com/marinasundstrom)
 [![YouTube Badge](https://img.shields.io/youtube/channel/subscribers/UCVdav9wE4kmtiEuk1_vG2_g?label=YouTube&logo=YouTube&logoColor=ree&style=flat)](https://www.youtube.com/channel/UCVdav9wE4kmtiEuk1_vG2_g)
+[![Buy Me A Coffee Badge](https://img.shields.io/badge/buy_me_a_coffee-FFDD00?&logo=buy-me-a-coffee&logoColor=ree&style=flat)](https://www.buymeacoffee.com/marna.li)
 
 🎯 [My Programming Timeline](https://www.sundstrom.dev/articles/my-programming-timeline) recaps my life and career as a programmer and professional software developer.
 
