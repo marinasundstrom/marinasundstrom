@@ -3,7 +3,7 @@
 I'm a Software Developer, mainly working with C#/.NET and the Web. 👩‍💻✨ I also have an interest in Software Architecture and Design.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Marina%20Sundström-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marinasundstrom/)](https://www.linkedin.com/in/marinasundstrom/)
-[![Twitter Badge](https://img.shields.io/badge/-@marna_li-1da1f2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/marna_li)](https://twitter.com/marna_li)
+<!-- [![Twitter Badge](https://img.shields.io/badge/-@marna_li-1da1f2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/marna_li)](https://twitter.com/marna_li) -->
 [![Github Badge](https://img.shields.io/badge/-marinasundstrom-404040?style=flat&logo=github&logoColor=cyan&link=https://github.com/marinasundstrom)](https://github.com/marinasundstrom)
 [![YouTube Badge](https://img.shields.io/youtube/channel/subscribers/UCVdav9wE4kmtiEuk1_vG2_g?label=YouTube&logo=YouTube&logoColor=ree&style=flat)](https://www.youtube.com/channel/UCVdav9wE4kmtiEuk1_vG2_g)
 [![Buy Me A Coffee Badge](https://img.shields.io/badge/buy_me_a_coffee-FFDD00?&logo=buy-me-a-coffee&logoColor=ree&style=flat)](https://www.buymeacoffee.com/marna.li)
