@@ -95,5 +95,5 @@ The full playlist can be found [here](https://www.youtube.com/playlist?list=PLLB
 
 ## 🔗 Where to find me
 - [My website](https://www.sundstrom.dev/) - Blog, CV/Résumé, and Portfolio
-- Twitter: [@marna_li](https://twitter.com/marna_li)
+<!-- - Twitter: [@marna_li](https://twitter.com/marna_li) -->
 - LinkedIn: [marinasundstrom](https://www.linkedin.com/in/marinasundstrom/)
