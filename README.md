@@ -2,11 +2,11 @@
 
 I'm a Software Developer, mainly working with C#/.NET and the Web. 👩‍💻✨ I also have an interest in Software Architecture and Design.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Marina%20Sundström-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marinasundstrom/)](https://www.linkedin.com/in/marinasundstrom/)
-<!-- [![Twitter Badge](https://img.shields.io/badge/-@marna_li-1da1f2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/marna_li)](https://twitter.com/marna_li) -->
+[![Linkedin Badge](https://img.shields.io/badge/-Marina%20Sundström-blue?style=flat&logo=linkedin-white&logoColor=white&link=https://www.linkedin.com/in/marinasundstrom/)](https://www.linkedin.com/in/marinasundstrom/)
 [![Github Badge](https://img.shields.io/badge/-marinasundstrom-404040?style=flat&logo=github&logoColor=cyan&link=https://github.com/marinasundstrom)](https://github.com/marinasundstrom)
 [![YouTube Badge](https://img.shields.io/youtube/channel/subscribers/UCVdav9wE4kmtiEuk1_vG2_g?label=YouTube&logo=YouTube&logoColor=ree&style=flat)](https://www.youtube.com/channel/UCVdav9wE4kmtiEuk1_vG2_g)
-[![Buy Me A Coffee Badge](https://img.shields.io/badge/buy_me_a_coffee-FFDD00?&logo=buy-me-a-coffee&logoColor=ree&style=flat)](https://www.buymeacoffee.com/marna.li)
+[![X Badge](https://img.shields.io/badge/-@marna_li-1da1f2?style=flat&logo=x&labelColor=black&color=gray&logoColor=white&link=https://x.com/marna_li)](https://twitter.com/marna_li)
+[![Buy Me A Coffee Badge](https://img.shields.io/badge/buy_me_a_coffee-FFDD00?&logo=buy-me-a-coffee&labelColor=white&color=white&logoColor=yellow&style=flat)](https://www.buymeacoffee.com/marna.li)
 
 🎯 [My Programming Timeline](https://www.sundstrom.dev/articles/my-programming-timeline) recaps my life and career as a programmer and professional software developer.
 
@@ -14,8 +14,12 @@ Here is my [CV](https://1drv.ms/b/s!AtAtF4x3G7X4gRWqZOXpFkW--5dQ?e=IxD6XZ) 😊
 
 ## Technologies that I use
 
-<img height="30" src="macos.png"> <img height="30" src="/dotnet.png"> <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"> <img height="30" src="/blazor.png"> <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"> <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
-<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png">
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
 
 ## Me on GitHub
 
@@ -95,5 +99,5 @@ The full playlist can be found [here](https://www.youtube.com/playlist?list=PLLB
 
 ## 🔗 Where to find me
 - [My website](https://www.sundstrom.dev/) - Blog, CV/Résumé, and Portfolio
-<!-- - Twitter: [@marna_li](https://twitter.com/marna_li) -->
+- X (fka Twitter): [@marna_li](https://x.com/marna_li)
 - LinkedIn: [marinasundstrom](https://www.linkedin.com/in/marinasundstrom/)
