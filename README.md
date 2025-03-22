@@ -17,9 +17,25 @@ Here is my [CV](https://1drv.ms/b/s!AtAtF4x3G7X4gRWqZOXpFkW--5dQ?e=IxD6XZ) 😊
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff)](#)
+[![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF)](#)
+[![JavaScript](https://shields.io/badge/JavaScript-333333?logo=JavaScript)](#)
+[![CSS](https://img.shields.io/badge/CSS-239120?&logo=css3&logoColor=white)](#)
+
+
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![RabbitMQ](https://img.shields.io/badge/-rabbitmq-%23FF6600?logo=rabbitmq&logoColor=white)](#)
+[![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927)](#)
+
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
+
+
+### Also been using
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](#)
+
 
 ## Me on GitHub
 
@@ -30,7 +46,7 @@ Here is my [CV](https://1drv.ms/b/s!AtAtF4x3G7X4gRWqZOXpFkW--5dQ?e=IxD6XZ) 😊
 
 ## Working on right now
 * [Raven](https://github.com/marinasundstrom/raven-compiler) (2024-) - A programming language. and compiler, based on the Roslyn compiler architecture.
-* [YourBrand](https://github.com/marinasundstrom/YourBrand) (2021 - 2023, 2024 -) - Enterprise system for e-commerce and consulting services. Distributed app with deployment to the cloud. Based on and incorporates the following projects:
+* [YourBrand](https://github.com/marinasundstrom/YourBrand) (2021 - 2023, 2024 -) - Enterprise system for e-commerce and consulting services. Distributed app with deployment to the cloud.
 
 ## ⭐ Project showcase
 Here are some projects of mine that I would like to show:
