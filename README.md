@@ -63,6 +63,7 @@ I have uploaded the result of some of the assignments that I have done for inter
 * [BookStoreScraper](https://github.com/marinasundstrom/BookStoreScraper) (2023) - Scraping the [Books to Scrape](http://books.toscrape.com/) site, and downloads the entire site to be viewed offline. _C#/.NET_
 * [ChatApp](https://github.com/marinasundstrom/ChatApp) (2023) - Chat app built with ASP.NET Core and Blazor.
 * [FizzBuzz](https://github.com/marinasundstrom/fizzbuzz) (2024) - Fizz buzz with Unit tests
+* [Weather forecast app](https://github.com/marinasundstrom/RecruitmentTest-June2024) (2024) - Displaying weather at certain office locations - frontend in Blazor, backend in ASP.NET Core calling external weather forecast API, and unit tests for endpoints.
 
 ### 🏫 School projects
 
