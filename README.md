@@ -45,6 +45,7 @@ Here is my [CV](https://1drv.ms/b/s!AtAtF4x3G7X4gRWqZOXpFkW--5dQ?e=IxD6XZ) 😊
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/marna.li)
 
 ## Working on right now
+* [MyServiceBus](https://github.com/marinasundstrom/MyServiceBus) (2025-) - Async messaging framework for .NET and Java. Based on MassTransit.
 * [Raven](https://github.com/marinasundstrom/raven-compiler) (2024-) - A programming language. and compiler, based on the Roslyn compiler architecture.
 * [YourBrand](https://github.com/marinasundstrom/YourBrand) (2021 - 2023, 2024 -) - Enterprise system for e-commerce and consulting services. Distributed app with deployment to the cloud.
 
