@@ -10,7 +10,7 @@ I'm a Software Developer, mainly working with C#/.NET and the Web. 👩‍💻�
 
 🎯 [My Programming Timeline](https://www.sundstrom.dev/articles/my-programming-timeline) recaps my life and career as a programmer and professional software developer.
 
-Here is my [CV](https://1drv.ms/b/s!AtAtF4x3G7X4gRWqZOXpFkW--5dQ?e=IxD6XZ) 😊
+Here is my [CV](https://1drv.ms/b/c/f8b51b778c172dd0/EcbPCZv5X19DivtUObAeMs8BJ30RVkXckGSCW7VUY3ypig?e=EpGt0k) 😊
 
 ## Technologies that I use
 
