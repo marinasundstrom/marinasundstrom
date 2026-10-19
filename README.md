@@ -47,7 +47,8 @@ Here is my [CV](https://1drv.ms/b/c/f8b51b778c172dd0/EcbPCZv5X19DivtUObAeMs8BJ30
 ## Working on right now
 
 * [CloudShell](https://github.com/marinasundstrom/CloudShell) (2026-) - CloudShell is a language-neutral, resource-oriented control plane for modeling, running, inspecting, and operating distributed applications in local and self-hosted environments.
-* [Raven](https://github.com/marinasundstrom/raven-compiler) (2024-) - Raven is a pragmatic, typed application language for .NET that makes functional composition, algebraic modeling, and object-oriented design complementary parts of one toolset, with direct access to the .NET runtime and ecosystem.
+* [Raven](https://github.com/marinasundstrom/raven) (2024-) - Raven is a pragmatic, typed application language for .NET that makes functional composition, algebraic modeling, and object-oriented design complementary parts of one toolset, with direct access to the .NET runtime and ecosystem.
+* [neoCLR](https://github.com/marinasundstrom/neoCLR) (2026-) - Experimental modern application platform inspired by .NET. Raven is the first language targeting the platform.
 * [MyServiceBus](https://github.com/marinasundstrom/MyServiceBus) (2025-) - Transport-agnostic asynchronous messaging framework for .NET and Java. Inspired by MassTransit.
 * [YourBrand](https://github.com/marinasundstrom/YourBrand) (2021 - 2023, 2024 -) - Enterprise system for e-commerce and consulting services. Distributed app with deployment to the cloud.
 * [CheckedExceptions](https://github.com/marinasundstrom/CheckedExceptions) (2024-) - C# code analyzer that helps in enforcing explicit exception handling.
